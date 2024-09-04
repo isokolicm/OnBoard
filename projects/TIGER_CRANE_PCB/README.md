@@ -1,6 +1,6 @@
 ---
 name: "TIGER CRANE KUNG FU PCB CARD"
-slack_handle: "@David"
+slack_handle: "@Isaac Mark Sokolic"
 github_handle: "@isokolicm"
 tutorial: "https://jams.hackclub.com/jam/hacker-card"
 ---
